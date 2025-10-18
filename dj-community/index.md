@@ -1,6 +1,6 @@
 ## Heros of the Borderlands
 ### Adventure Log
-#### Session 0
+#### Session 0 (2025-10-15)
 Created five player characters at Level 1
 | Player | Character Name | Class | Species | Background |
 |--------|----------------|-------|---------|------------|
@@ -12,4 +12,3 @@ Created five player characters at Level 1
 
 Told adventures that they would be starting on the Trail approaching the Keep.
 
-#### Session 1
